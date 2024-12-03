@@ -16,12 +16,12 @@ import { getFirestore, doc, getDoc, collection, query, where, getDocs, setDoc } 
 const apiUrl = "https://leetcode-46562.uc.r.appspot.com";
 // const apiUrl = "http://127.0.0.1:5000";
 const firebaseConfig = {
-    apiKey: "AIzaSyD48ilaqHwyZ4YewZVz-C_MY1qZqdlhCdc",
+    apiKey: "",
     authDomain: "leetcode-46562.firebaseapp.com",
     projectId: "leetcode-46562",
     storageBucket: "leetcode-46562.firebasestorage.app",
-    messagingSenderId: "720711409618",
-    appId: "1:720711409618:web:dd1da1cdd65bdb614c720b",
+    messagingSenderId: "",
+    appId: "",
     measurementId: "G-BT4LW3MKLW"
   };
 
